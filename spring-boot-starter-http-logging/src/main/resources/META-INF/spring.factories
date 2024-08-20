@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=ru.t1.spring_boot_starter_http_logging.logger.HttpLoggingAutoConfiguration
+
